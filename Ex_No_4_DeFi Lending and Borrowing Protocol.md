@@ -1,4 +1,6 @@
 # Experiment 4: DeFi Lending and Borrowing Protocol
+## Name: Mahith M
+## Register No: 212225240082
 # Aim:
 To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
 
@@ -92,6 +94,7 @@ Introduces risk management: overcollateralization and liquidation.
 
 
 Directly related to DeFi protocols like Aave and Compound.
+<img width="1917" height="920" alt="image" src="https://github.com/user-attachments/assets/5d40aca9-5ccb-45a7-b82f-d96a11cdec40" />
 
 # RESULT : 
-
+Thus, the given experiment was successfully performed and the obtained result was found to be in accordance with the expected outcome.
